@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h1 align="center">Hola 👋, Soy Marco</h1>
+<h3 align="center"Un apasionado desarrollador de Peru</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
