@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Marco</h1>
-<h2> Repositorio de tienda de tarjetas graficas </h2>
+<h2> Repositorio de Tienda de Tarjetas Graficas </h2>
 <h3 align="center"Un apasionado desarrollador de Peru</h3>
 
 <h3 align="left">Connect with me:</h3>
